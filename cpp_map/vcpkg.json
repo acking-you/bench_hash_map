@@ -1,0 +1,11 @@
+{
+  "name": "cpp-map",
+  "version-string": "1.0.0",
+  "builtin-baseline": "a345bbdc68cdfda65603e24413b21afb28f110fb",
+  "dependencies": [
+    {
+      "name": "abseil",
+      "version>=": "20240722.0"
+    }
+  ]
+}
