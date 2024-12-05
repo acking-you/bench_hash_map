@@ -6,11 +6,11 @@
 欢迎优化改进这些测试代码，也欢迎提交其他语言 HashMap 的测试代码，这方面的更新与改进请在 issue 中提出
 
 ### Benchmark Env
-CPU: Apple M3 Pro
+- CPU: Apple M3 Pro
 
-Rust: cargo 1.82.0-nightly (b5d44db1d 2024-07-26)
-C++: Homebrew clang version 18.1.8
-Java: openjdk-23.0.1
+- Rust: cargo 1.82.0-nightly (b5d44db1d 2024-07-26)
+- C++: Homebrew clang version 18.1.8
+- Java: openjdk-23.0.1
 
 
 ### Becnchmark Result
